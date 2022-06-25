@@ -36,7 +36,7 @@ Change config by set the corresponding environment variable name.
 
 ## Deploy button
 
-<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/deviy99/Hacker-"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ### Credits:
 - [Azamaulanaa](https://github.com/azamaulanaaa/botkaca) For Main Repo.
